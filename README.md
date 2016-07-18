@@ -2,6 +2,8 @@
 
 Originally forked from [https://github.com/johnpapa/angular-styleguide](https://github.com/johnpapa/angular-styleguide) July 2016
 
+This Style guide serves as the core Angular style guide for VPIDEV
+
 ## Table of Contents
 
   1. [Single Responsibility](#single-responsibility)
